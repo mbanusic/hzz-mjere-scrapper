@@ -1,0 +1,16 @@
+{
+  "name": "mjere-hzz",
+  "version": "1.0.0",
+  "description": "Script to pull data from HZZ API",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js"
+  },
+  "keywords": [],
+  "author": "mbanusic@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "csv-writer": "^1.6.0"
+  }
+}
